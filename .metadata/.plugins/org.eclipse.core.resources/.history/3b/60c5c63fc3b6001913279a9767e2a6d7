@@ -1,0 +1,13 @@
+package com.eme.bill.user;
+
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Table("VERSION")
+@Data
+public class Version {
+	
+	private int id; 
+	private String description;
+}

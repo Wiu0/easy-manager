@@ -1,0 +1,5 @@
+package com.eme.bill.user;
+
+public class User {
+
+}

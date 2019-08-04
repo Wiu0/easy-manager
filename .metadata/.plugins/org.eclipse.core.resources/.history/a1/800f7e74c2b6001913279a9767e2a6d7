@@ -1,0 +1,9 @@
+package com.eme.bill.user;
+
+public class User {
+
+	private int user;
+	private String name;
+	
+	
+}
