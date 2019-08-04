@@ -1,0 +1,9 @@
+package com.ema.app;
+
+import org.springframework.boot.SpringBootConfiguration;
+
+@SpringBootApplication 
+public class ApplicationInit {
+
+	
+}

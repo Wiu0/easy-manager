@@ -1,0 +1,16 @@
+package com.eme.bill;
+
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Table(name = "BILL")
+@Data
+
+public abstract class Bill {
+
+	private long id;
+	
+	
+	
+}

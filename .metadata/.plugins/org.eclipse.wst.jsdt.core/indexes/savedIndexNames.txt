@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/wiu/git/personal/easy-manager/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2648109702.index
+3462200707.index
+205611869.index
+2125284659.index
+913551469.index
+632057529.index

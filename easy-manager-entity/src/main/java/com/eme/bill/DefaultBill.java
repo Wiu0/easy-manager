@@ -1,0 +1,11 @@
+package com.eme.bill;
+
+import com.eme.bill.enums.TypeBill;
+
+public class DefaultBill extends Bill{
+
+	@Override
+	public TypeBill getType() {
+		return TypeBill.DEFAULT;
+	}
+}

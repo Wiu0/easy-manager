@@ -1,0 +1,11 @@
+package com.eme.bill;
+
+import javax.persistence.Table;
+
+
+@Table(name = "BILL")
+public abstract class Bill {
+
+	
+	
+}

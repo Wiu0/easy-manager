@@ -1,0 +1,10 @@
+package com.eme.bill;
+
+import org.hibernate.annotations.Entity;
+
+@Entity
+public abstract class Bill {
+
+	
+	
+}

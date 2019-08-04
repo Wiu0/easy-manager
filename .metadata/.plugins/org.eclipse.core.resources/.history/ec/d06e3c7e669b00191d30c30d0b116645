@@ -1,0 +1,12 @@
+package com.eme.bill;
+
+import javax.persistence.Table;
+
+import org.hibernate.annotations.Entity;
+
+@Table()
+public abstract class Bill {
+
+	
+	
+}
